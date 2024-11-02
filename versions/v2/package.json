@@ -1,0 +1,12 @@
+{
+	"name": "css-variables-language-server",
+	"version": "1.0.0",
+	"bin": "index.js",
+	"main": "index.js",
+	"scripts": {
+		"build": "true"
+	},
+	"dependencies": {
+		"css-variables-language-server": "2.x.x"
+	}
+}
